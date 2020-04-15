@@ -12,11 +12,11 @@ Didžiausias sistemos apribojimas yra interneto greitis. Tačiau per kelias vala
 ## Testavimas ##
 
 Testavimo įranga:
-Operacinė sistema: Windows 10 PRO, v.1909
-Procesorius: Intel core I5-7600K
-RAM: 8 GB
-Diskas: Samsung EVO860 SSD 500 GB
-Internetas: Mobilus
+1. Operacinė sistema: Windows 10 PRO, v.1909
+2. Procesorius: Intel core I5-7600K
+3. RAM: 8 GB
+4. Diskas: Samsung EVO860 SSD 500 GB
+5. Internetas: Mobilus
 Testavimo rezultatai labai skirtingai, nes turiu mobilų internetą ir interneto greitis labai skiriasi. Tačiau galima per minutę gauti nuo  maždaug 100 iki 1000 nuotraukų.
 
 ## Dokumentacija ##
