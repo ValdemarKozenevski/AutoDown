@@ -1,6 +1,6 @@
 # AutoDownload
 
-# Tikslas ##
+## Tikslas ##
 
 Atsiųsti nuotraukas iš tokių web-tinklapių (autoplius/autogidas), pasinaudojant visomis procesorio galimybėmis.
 
