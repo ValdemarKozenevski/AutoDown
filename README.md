@@ -23,4 +23,4 @@ Internetas: Mobilus
 Testavimo rezultatai labai skirtingai, nes turiu mobilų internetą ir interneto greitis labai skiriasi. Tačiau galima per minutę gauti nuo  maždaug 100 iki 1000 nuotraukų.
 
 # Dokumentacija
-Techininė dokumentacija yra folderyje "docs"
+Techininė dokumentacija yra folderyje "docs" (naudota "doxygen").
