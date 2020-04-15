@@ -9,6 +9,7 @@ Didžiausias sistemos apribojimas yra interneto greitis. Tačiau per kelias vala
 
 # Testavimas #
 Testavimo įranga:
+
 Operacinė sistema: Windows 10 PRO, v.1909
 
 Procesorius: Intel core I5-7600K
