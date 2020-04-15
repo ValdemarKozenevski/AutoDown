@@ -29,5 +29,5 @@ Techininė dokumentacija yra folderyje "docs" (naudota "doxygen").
 1. Užeikite į "ValdemarKozenevski1" "github" paskyrą;
 2. Pasirinkite "AutoDownload";
 3. Spauskite "Realeses";
-4. Suraskite versiją "Galutine versija" ir spauskite "Assets";
+4. Suraskite versiją "Versijalast" ir spauskite "Assets";
 5. Atsiuskite "AutoDownload.exe" ir paleiskite arba galite atsiųsti "suzipintą" kodą ir paleisti per "VisualStudio".
