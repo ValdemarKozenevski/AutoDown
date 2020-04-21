@@ -30,4 +30,4 @@ Techininė dokumentacija yra folderyje "docs" (naudota "doxygen").
 2. Pasirinkite "AutoDownload";
 3. Spauskite "Realeses";
 4. Suraskite versiją "Versijalast" ir spauskite "Assets";
-5. Atsiuskite "AutoDownload.exe" ir paleiskite arba galite atsiųsti "suzipintą" kodą ir paleisti per "VisualStudio".
+5. Atsiuskite "suzipintą" kodą ir paleisti per "VisualStudio".
